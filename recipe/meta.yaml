@@ -45,7 +45,7 @@ test:
 about:
   home: http://github.com/{{ author }}/{{ reponame }}
   license: MIT
-  license_file: README.rst
+  license_file: LICENSE.rst
   summary: 'HTTP support to dtool for read only access to datasets'
 
   dev_url: https://github.com/{{ author }}/{{ reponame }}
