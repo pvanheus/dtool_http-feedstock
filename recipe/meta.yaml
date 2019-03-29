@@ -1,8 +1,8 @@
 {% set name = "dtool_http" %}
 {% set reponame = "dtool-http" %}
 {% set author = "jic-dtool" %}
-{% set version = "0.2.0" %}
-{% set sha256 = "e46dc5d0fb27cb050b1a0af86676172d3985523e4d490817e44a57f5985ce20d" %}
+{% set version = "0.2.1" %}
+{% set sha256 = "ddbb6b3c01e37cd9588685edd31dbac978f2199e4c0e25cbeb90734b9b1a620c" %}
 
 package:
   name: {{ name|lower }}
